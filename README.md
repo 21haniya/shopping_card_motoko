@@ -1,4 +1,4 @@
-# `motoko_project`
+# `MOTOKO PRODUCT MANAGEMENT PROJECT`
 
 Welcome to your new `motoko_project` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
